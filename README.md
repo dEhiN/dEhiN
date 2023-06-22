@@ -2,11 +2,12 @@
 
 - 👀 I’m interested in software development, IT support, IT automation, and possibly DevOps
 
-- 🌱 I’m currently learning
-    1. Harvard CS50x: Introduction to Computer Science / edX
-    2. Git Complete: The definitive, step-by-step guide to Git / Udemy
-    3. Kotlin for Beginners: Learn Programming with Kotlin / Udemy
-    4. 2021 Complete Python Bootcamp from Zero to Hero in Python / Udemy
+- 🌱 I’m currently taking the following online courses:
+    1. Meta Front-End Developer / Coursera
+    2. Meta Back-End Developer / Coursera
+    3. Google IT Automation with Python / Coursera
+    4. Harvard CS50x: Introduction to Computer Science / edX
+    5. Git Complete: The definitive, step-by-step guide to Git / Udemy
 
 - 💞️ I’m looking to collaborate on nothing at the moment as I want to finish the courses I'm working on
 
