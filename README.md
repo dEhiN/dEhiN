@@ -38,19 +38,16 @@
   <b>🌱 Online courses I'm taking:</b>
   <ul>
     <li>
-      <em>Meta Front-End Developer / Coursera</em>
+      <a href="https://www.coursera.org/professional-certificates/meta-front-end-developer"><em>Meta Front-End Developer @ Coursera</em></a>
     </li>
     <li>
-      <em>Meta Back-End Developer / Coursera</em>
+      <a href="https://www.coursera.org/professional-certificates/meta-back-end-developer"><em>Meta Back-End Developer @ Coursera</em></a>
     </li>
     <li>
-      <em>Google IT Automation with Python / Coursera</em>
+      <a href="https://www.coursera.org/google-certificates/it-automation-certificate"><em>Google IT Automation with Python @ Coursera</em></a>
     </li>
     <li>
-      <em>Harvard CS50x: Introduction to Computer Science / edX</em>
-    </li>
-    <li>
-      <em>Git Complete: The definitive, step-by-step guide to Git / Udemy</em>
+      <a href="https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home"><em>Harvard CS50x: Introduction to Computer Science @ edX</em></a>
     </li>
   </ul>
 </p>
