@@ -29,7 +29,7 @@
   </em>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=powershell,py,flask,html,css,js,kotlin,java,c,azure,linux,sqlite,vscode,androidstudio,figma,git,github&perline=6" />
+      <img src="https://skillicons.dev/icons?i=powershell,py,flask,html,css,js,kotlin,java,c,azure,linux,sqlite,vscode,androidstudio,figma,git,github,java&perline=6" />
     </a>
   </p>
 </p>
