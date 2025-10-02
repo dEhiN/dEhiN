@@ -17,7 +17,7 @@
   <b>💞️ Collaborations:</b>
   <br>
   <em>
-    I started working on a personal project called <a href="https://github.com/dEhiN/Demord"><strong>Demord</strong></a>. It's a public project, so feel free to check it out and message me if you're interested in working on it together.
+    I've been working on a personal project called <a href="https://github.com/dEhiN/CompStart"><strong>CompStart</strong></a>. It's a public project, so feel free to check it out and message me if you're interested in working on it together.
   </em>
 </p>
 <br>
