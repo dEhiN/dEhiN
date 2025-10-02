@@ -9,7 +9,7 @@
   <b>🎈 About Me:</b>
   <br>
   <em>
-    I'm currently in the field of SaaS client support but want to pivot into software development, with possibly a focus on automation or web development. I studied Computer Science at university at the start of the 2000s but stepped away from the field for about 12-14 years. In 2019 I started taking some online courses to relearn programming. When the pandemic hit, I put the courses on pause to get into IT support as it was a quicker route at the time. I then moved into SaaS client support. I continue to take courses and practice my programming skills with the hope to either pivot fully into a software developer or engineer type of role or to incorporate my programming and analytic skills into my current field, possibly in a technical analyst role.
+    I'm currently in the field of IT support with some experience in SaaS client support, but I am pivoting into software development, with possibly a focus on automation, web development, or mobile development. I studied Computer Science at university at the start of the 2000s but stepped away from the field for around 15 years. In 2019 I started taking some online courses to relearn programming. When the pandemic hit, I put the courses on pause to get into IT support as it was a quicker route at the time. I then moved into SaaS client support.
   </em>
 </p>
 <br>
@@ -38,16 +38,7 @@
   <b>🌱 Online programs I'm taking:</b>
   <ul>
     <li>
-      <a href="https://www.coursera.org/professional-certificates/meta-back-end-developer"><em>Meta Back-End Developer Professional Certificate @ Coursera</em></a>
-    </li>
-    <li>
-      <a href="https://www.coursera.org/google-certificates/it-automation-certificate"><em>Google IT Automation with Python Professional Certificate @ Coursera</em></a>
-    </li>
-    <li>
-      <a href="https://www.coursera.org/specializations/core-java"><em>Core Java Specialization @ Coursera</em></a>
-    </li>
-    <li>
-      <a href="https://www.coursera.org/specializations/machine-learning-introduction"><em>Machine Learning Specialization @ Coursera</em></a>
+      I'm currently not actively pursuing any online programs.
     </li>
   </ul>
 </p>
