@@ -11,6 +11,26 @@
   <em>
     I'm currently in the field of IT support with some experience in SaaS client support, but I am pivoting into software development, with possibly a focus on automation, web development, or mobile development. I studied Computer Science at university at the start of the 2000s but stepped away from the field for around 15 years. In 2019 I started taking some online courses to relearn programming. When the pandemic hit, I put the courses on pause to get into IT support as it was a quicker route at the time. I then moved into SaaS client support.
   </em>
+  <br>
+  <br>
+  <em>
+    As of December 2025, I started a 10-month diploma program for <strong>Full Stack Web Application Development</strong>. All assignment and project files from the program can be found at <a href="https://github.com/dEhiN/CBCDiploma--FSWAD"><strong>CBCDiploma-FSWAD</strong></a>. Through the program, I will be sharpening my existing skills with:
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JS</li>
+      <li>Python</li>
+      <li>Flask</li>
+    </ul>
+    I will also be learning and acquiring new skills with:
+    <ul>
+      <li>jQuery</li>
+      <li>React</li>
+      <li>Angular</li>
+      <li>Node.js</li>
+      <li>Django</li>
+    </ul>
+  </em>
 </p>
 <br>
 <p>
@@ -32,6 +52,15 @@
       <img src="https://skillicons.dev/icons?i=py,powershell,html,css,js,kotlin,java,c,sqlite,flask,bootstrap,vscode,androidstudio,azure,linux,bash,figma,git,github&perline=6" />
     </a>
   </p>
+</p>
+<br>
+<p>
+  <b>🌱 In person programs I'm taking:</b>
+  <ul>
+    <li>
+      <em>Full Stack Web Application Development</em> (Canadian Business College)
+    </li>
+  </ul>
 </p>
 <br>
 <p>
