@@ -2,19 +2,24 @@
   👋 Hi, I’m @dEhiN
 </h1>
 <h3>
-  👀 I’m interested in software development, IT support, and IT automation
+  👀 I’m interested in software development including automation tools, web development, and mobile development.
 </h3>
 <br><br>
 <p>
   <b>🎈 About Me:</b>
   <br>
   <em>
-    I'm currently in the field of IT support with some experience in SaaS client support, but I am pivoting into software development, with possibly a focus on automation, web development, or mobile development. I studied Computer Science at university at the start of the 2000s but stepped away from the field for around 15 years. In 2019 I started taking some online courses to relearn programming. When the pandemic hit, I put the courses on pause to get into IT support as it was a quicker route at the time. I then moved into SaaS client support.
+    As a teen, I grew up pursuing computer programming in high school, through competitions, and via personal projects. I studied Computer Science at university at the start of the 2000s where I developed a good foundational grasp of the field and of software development paradigms.  Although I stepped away from the field for around 15 years, in 2019 I returned to my passion. I started by taking online courses through educational platforms like Coursera, edX, and Udemy. 
   </em>
   <br>
   <br>
   <em>
-    As of December 2025, I started a 10-month diploma program for <strong>Full Stack Web Application Development</strong>. All assignment and project files from the program can be found at <a href="https://github.com/dEhiN/CBCDiploma--FSWAD"><strong>CBCDiploma-FSWAD</strong></a>. Through the program, I will be sharpening my existing skills with:
+    I also have a strong background in both IT and customer service. I would say that I am driven overall by a desire to help people along the journey of life. And I enjoy using my skills and talents to do that &#8212 whether providing IT support, creating a tool to automate a task or process, or developing a custom piece of software.
+  </em>
+  <br>
+  <br>
+  <em>
+    I'm currently taking a <strong>Full Stack Web Application Development</strong> diploma program to supplement the 25+ software development related online certificates I have completed. (For more information, see my LinkedIn profile). Through the program, I will be sharpening my existing skills with:
     <ul>
       <li>HTML</li>
       <li>CSS</li>
@@ -28,6 +33,7 @@
       <li>React</li>
       <li>Angular</li>
       <li>Node.js</li>
+      <li>Express</li>
       <li>Django</li>
     </ul>
   </em>
@@ -45,7 +51,7 @@
   <b>🎨 Skills:</b>
   <br>
   <em>
-    Please note that I have at least a beginner level knowledge in or familiarity with all the languages and libraries/programs listed below. Some I've learned from online courses I've taken (or I'm learning through the diploma I'm currently pursuing) while others are from use in current or previous jobs.
+    The following is a non-exhaustive list of my developer skills. It includes programming languages, frameworks and libraries, OSes, and various other developmend-related technologies.
   </em>
   <p>
     <a href="https://skillicons.dev">
