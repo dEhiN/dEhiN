@@ -45,11 +45,11 @@
   <b>🎨 Skills:</b>
   <br>
   <em>
-    Please note that I have at least a beginner level knowledge in or familiarity with all the languages and libraries/programs listed below. Some I've learned from online courses I've taken while others are from use in current or previous jobs (see my LinkedIn profile for more information). Python and PowerShell I've used the most, so my knowledge is past beginner.
+    Please note that I have at least a beginner level knowledge in or familiarity with all the languages and libraries/programs listed below. Some I've learned from online courses I've taken (or I'm learning through the diploma I'm currently pursuing) while others are from use in current or previous jobs.
   </em>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,powershell,html,css,js,kotlin,java,c,sqlite,flask,bootstrap,vscode,androidstudio,azure,linux,bash,figma,git,github&perline=6" />
+      <img src="https://skillicons.dev/icons?i=py,powershell,bash,html,css,js,ts,jquery,nodejs,npm,react,angular,c,java,kotlin,mongodb,sqlite,flask,bootstrap,express,vscode,androidstudio,idea,windows,linux,debian,azure,figma,postman,regex,git,github&perline=8" />
     </a>
   </p>
 </p>
